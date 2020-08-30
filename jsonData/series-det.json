@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Pataal Lok",
+    "cast": [
+      "Jaideep Ahlawat",
+      "Niharika Dutt",
+      "Swastika Mukherjee",
+      "Anindita Bose",
+      "Neeraj kabi"
+    ],
+    "rating": 7.6,
+    "tags": ["Crime"],
+    "trailerUrl": [
+      "https://www.youtube.com/watch?v=cNwWMW4mxO8",
+      "https://www.youtube.com/watch?v=6iCH_4vJmFs"
+    ],
+    "media": [
+      "https://smedia2.intoday.in/aajtak/images/stories/092019/paatal_lok_review_1589561065_618x347.jpeg",
+      "https://www.jagranimages.com/images/newimg/04052020/04_05_2020-paatal-lok-3_1_20242520.jpg",
+      "https://i.ytimg.com/vi/KpZnTmAQUfE/maxresdefault.jpg",
+      "https://img.navodayatimes.in/default.aspx?img=http://static.navodayatimes.in/multimedia/ntnew-16_54_175404721paatal-lok1.jpg&width=850"
+    ],
+    "platform": "Amazon Prime Video",
+    "releaseDate": "2020-05-15"
+  },
+
+  {
+    "name": "Pataal Lok",
+    "cast": [
+      "Jitendra Kumar",
+      "Chandan Roy",
+      "Faisal Malik",
+      "Raghubir Yadav",
+      "Pooja Singh"
+    ],
+    "rating": 8.8,
+    "tags": ["Comedy", "Drama"],
+    "trailerUrl": ["https://www.youtube.com/watch?v=mojZJ7oeD_g"],
+    "media": [
+      "https://i.pinimg.com/originals/c5/7a/a3/c57aa3d1b47c5b40283b58d1d21e9fac.jpg",
+      "https://theseer.in/wp-content/uploads/2020/04/panchayat.jpg",
+      "https://cms.tribuneindia.com/gallary_content/2020/3/Desk/2020_3$largeimg_742031664.jpeg",
+      "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_.jpg"
+    ],
+    "platform": "Amazon Prime Video",
+    "releaseDate": "2020-04-03"
+  }
+]

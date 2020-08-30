@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Angrezi Medium",
+    "cast": [
+      "Irrfan Khan",
+      "Radhika Madan",
+      "KAreena Kapoor Khan",
+      "Deepak Dobriyal",
+      "Porvi Jain"
+    ],
+    "rating": 7.4,
+    "tags": ["Comedy", "Drama"],
+    "trailerUrl": ["https://www.youtube.com/watch?v=rzlfeocUVhI"],
+    "media": [
+      "https://www.easterneye.biz/wp-content/uploads/2020/03/Angrezi-Medium-1.jpg",
+      "https://www.askjoker.com/uploads/images/image_750x_5e778ea51bd3e.jpg",
+      "https://lh3.googleusercontent.com/proxy/6WgKJwJNmUSw7S_I_rscTGjndSOCfMGqPCWJ7OFdTM_74LWuLYOHtXiXkSIUkB_m1LTlkeDEX0oTfOxf-qPZTJklZnozMYmSSkmsKHIlQK8XZEQhYtdkQ0Z4E0ToxPqgt8vC_wasMYlXxCwT8o12R4tV1A",
+      "https://images.assettype.com/thequint%2F2020-02%2F4b15597b-77c3-4662-9b6a-9d5b8227b411%2FWhatsApp_Image_2020_02_12_at_12_25_36_PM.jpeg?auto=format&q=35&w=1200&h=1731"
+    ],
+    "cinema": "Bollywood",
+    "releaseDate": "13-05-2020"
+  },
+
+  {
+    "name": "Thappad",
+    "cast": [
+      "Taapsee Pannu",
+      "Pavail Gulati",
+      "Naila Grewal",
+      "Dia Mirza",
+      "Geetika Vidya Ohlyan"
+    ],
+    "rating": 7.2,
+    "tags": ["Drama"],
+    "trailerUrl": ["https://www.youtube.com/watch?v=jBw_Eta0HDM"],
+    "media": [
+      "https://static.toiimg.com/thumb/73797163.cms?width=545&height=307&imgsize=159142",
+      "https://www.thestatesman.com/wp-content/uploads/2020/01/3-3.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNWQ1Yzc2NDYtN2RjNC00ZGIyLWJkMjItMDlkODVhNjg0OTczXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    ],
+    "cinema": "Bollywood",
+    "releaseDate": "2020-02-28"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "name": "vidly-basic",
+  "version": "1.0.0",
+  "description": "REST-API for serving movies data.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js",
+    "serven": "nodemon index.js",
+    "test": "jest --watchAll --verbose --detectOpenHandles --coverage",
+    "coverage": "jest --detectOpenHandles --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@hapi/joi-date": "^2.0.1",
+    "bcrypt": "^4.0.1",
+    "config": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.14",
+    "winston": "^3.2.1",
+    "winston-mongodb": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-react": "^7.20.0",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
+    "supertest": "^4.0.2"
+  }
+}
